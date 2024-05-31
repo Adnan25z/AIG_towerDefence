@@ -3,6 +3,7 @@
 ## Introduction
 
 This project is a tower defense game developed as part of the AI for Games course. The game integrates various AI techniques to create a dynamic and engaging gameplay experience. Key features include diverse tower types, unique projectiles, and sophisticated enemy pathfinding and decision-making systems. This README provides an overview of the game’s design, AI techniques, and gameplay controls.
+![Gameplay Image](assets/aig.gif)
 
 ## Table of Contents
 
@@ -102,4 +103,6 @@ Enemies vary in attributes such as health, speed, credit value, and life value. 
 
 - Adnan Zafar
 
-This README file provides a comprehensive guide to understanding and using the tower defense game, highlighting its AI-driven features and gameplay mechanics. For further details or questions, please refer to the contact information provided in the Contributors section.
+This README file provides a comprehensive guide to understanding and using the tower defense game, highlighting its AI-driven features and gameplay mechanics. For further details or questions, please refer to the contact information provided in profile page.
+
+
